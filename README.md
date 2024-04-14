@@ -24,7 +24,7 @@ pip install torch==1.10.1+cu102 torchvision==0.11.2+cu102 torchaudio==0.10.1 -f 
 1. Extract node IDs and their distances from network data
 2. Run 'gen_adj_mx.py'
 
-#### Training
+## Training
 ```
 python train.py
 ```
