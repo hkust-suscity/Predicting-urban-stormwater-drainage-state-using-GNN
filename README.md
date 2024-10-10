@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to the repository for the study "Predicting the Urban Stormwater Drainage System State using the Graph-WaveNet," published in Sustainable Cities and Society. This repository contains the code used in our research to train a Graph-WaveNet model utilizing historical network state and rainfall data from SWMM simulations. For more details about our study, please refer to the paper available at https://doi.org/10.1016/j.scs.2024.105877
+Welcome to the repository for the study **"Predicting the Urban Stormwater Drainage System State using the Graph-WaveNet,"** published in Sustainable Cities and Society. This repository contains the code used in our research to train a Graph-WaveNet model utilizing historical network state and rainfall data from SWMM simulations. For more details about our study, please refer to the paper available at https://doi.org/10.1016/j.scs.2024.105877
 
 For the original PyTorch implementation of Graph-WaveNet, please refer to the paper Graph WaveNet for Deep Spatial-Temporal Graph Modeling, IJCAI 2019. (https://arxiv.org/abs/1906.00121)
 
