@@ -4,9 +4,9 @@ Welcome to the repository for the study **__"Predicting the Urban Stormwater Dra
 For the original PyTorch implementation of Graph-WaveNet, please refer to the paper Graph WaveNet for Deep Spatial-Temporal Graph Modeling, IJCAI 2019. (https://arxiv.org/abs/1906.00121)
 
 ## Requirements
-- python 3.6
-- see `requirements.txt`
-- pytorch installation：
+- Python 3.6
+- See `requirements.txt`
+- Pytorch installation：
   1. download nvidia cuda12.0, or latest version (13 March 2023 update)  
   2. check driver version in CMD using 'nvidia-smi', high version will match cuda better
   3. download nvidia cudnn
